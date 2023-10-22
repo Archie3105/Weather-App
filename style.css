@@ -16,10 +16,17 @@ body {
   color: #fff;
   margin: 40px auto 0;
   text-align: center;
-  padding: 40px 35px;
+  padding: 10px 35px;
   border-radius: 20px;
   margin-bottom: 40px;
   height: auto;
+}
+.header h1{
+    text-align: center;
+    font-weight: 600;
+    /* margin-top: 15px; */
+    padding: 20px;
+    color: #fff;
 }
 .search {
   width: 100%;
